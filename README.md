@@ -2,4 +2,5 @@
 
 ---
 
-Do you want me to generate a **second, even lighter banner** (just one line of ASCII, almost like a logo) for *super minimal* mobile displays?
+Create **passport / ID compliant headshots** with one command.  
+Your selfies → automatically cropped, resized, and standardized to **35×45mm @ 300 DPI**.
