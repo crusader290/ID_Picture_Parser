@@ -6,14 +6,13 @@ set -euo pipefail
 #
 # Output: 35x45 mm (413x531 px) @ 300 DPI, plain white background, sRGB
 
-*\\Usage
+# Usage
 
-chmod +x make_passport_photo.sh
-./make_passport_photo.sh headshot.jpg passport.jpg
+# chmod +x make_passport_photo.sh
+# ./make_passport_photo.sh headshot.jpg passport.jpg
 
-Result: passport.jpg → 413×531 px, 300 DPI, white background, sRGB, head centered & scaled.
-
-*//
+# Result: passport.jpg → 413×531 px, 300 DPI, white background, sRGB, head centered & scaled.
+  
 
 if [ $# -ne 2 ]; then
   echo "Usage: $0 INPUT.jpg OUTPUT.jpg"
